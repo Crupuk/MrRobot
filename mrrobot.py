@@ -6,8 +6,8 @@ import datetime
 import sys
 
 PASTA_PADRAO = "C:\\leonardo\\projs\\robot"
-CASA = "Avenida Jornalista Henrique Cordeiro, Barra da Tijuca, Rio de Janeiro"
-TRABALHO = "Avenida Augusto Severo, 84 - Glória, Rio de Janeiro - RJ, Brasil"
+CASA = ""
+TRABALHO = ""
 
 class Waze():
 
